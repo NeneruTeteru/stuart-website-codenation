@@ -1,0 +1,40 @@
+H2 {
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+H3 {
+    font-weight: bold;
+    text-align: left;
+    color: blue;
+}
+
+H4 {
+    font-weight: bold;
+    text-align: left;
+    color: blue;
+}
+
+H1 {
+    font-weight: bold;
+    text-align: center;
+}
+.questions {
+    text-align: left;
+
+}
+
+.u2h {
+    font-weight: bold;
+}
+
+.u1h {
+    font-weight: bold;
+    }
+
+
+body {
+    background-image: url(solid.png);
+    background-repeat: repeat;
+}
